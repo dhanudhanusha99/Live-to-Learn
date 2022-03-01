@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin:0;
+}
+.maintable
+{
+	background-color:#FFF;
+}
+.td
+{
+	border: solid 1px;
+}
+td
+{
+	vertical-align:top;
+}
+.lftaln{
+	text-align:left;
+	padding-left:5px;
+	font: Verdana, Geneva, sans-serif;
+	font-size:14px;
+}
+.cenaln
+{
+	text-align:center;
+}

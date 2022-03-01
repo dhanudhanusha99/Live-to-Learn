@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_staff_list" value="name:uname;datatype:string,name:type;datatype:string" />
+</info>

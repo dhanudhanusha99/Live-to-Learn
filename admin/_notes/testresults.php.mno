@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_results" value="name:user_id;datatype:string,name:qset_id;datatype:string,name:qus_id;datatype:string,name:qus_ans;datatype:string,name:usr_ans;datatype:string,name:qus_crt;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:qsetid;datatype:int,name:question_title;datatype:string,name:catid;datatype:string,name:scatid;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:ques_atid;datatype:int,name:qsetid;datatype:int,name:question;datatype:string,name:ans1;datatype:string,name:ans2;datatype:string,name:ans3;datatype:string,name:fans;datatype:string" />
+</info>

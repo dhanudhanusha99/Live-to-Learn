@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:up_id;datatype:int,name:up_dep;datatype:string,name:up_sub;datatype:string,name:up_fname;datatype:string,name:up_ftyp;datatype:string,name:up_size;datatype:string" />
+	<infoitem key="UD_dwn" value="name:up_id;datatype:int,name:up_dep;datatype:string,name:up_sub;datatype:string,name:year;datatype:string,name:up_type;datatype:string,name:up_fname;datatype:string,name:up_ftyp;datatype:string,name:up_size;datatype:string" />
+</info>

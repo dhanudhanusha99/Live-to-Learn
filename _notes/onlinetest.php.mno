@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_category" value="name:catid;datatype:int,name:catname;datatype:string" />
+	<infoitem key="UD_question_list" value="name:ques_atid;datatype:int,name:qsetid;datatype:int,name:question;datatype:string,name:ans1;datatype:string,name:ans2;datatype:string,name:ans3;datatype:string,name:fans;datatype:string,name:qsetid;datatype:int,name:question_title;datatype:string,name:catid;datatype:string,name:scatid;datatype:string" />
+</info>
